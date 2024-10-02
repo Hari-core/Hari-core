@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-core&label=Profile%20views&color=0e75b6&style=flat" alt="hari-core" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari-core" alt="hari-core" /></a> </p>
-
 ## 🔭 Current Focus:
 I'm actively working on a range of projects that dive into algorithms, system design, and distributed systems. Here are a few highlights:
 - **Sorting Analyzer**: Visualizing sorting algorithms and analyzing their performance.
@@ -58,6 +54,6 @@ I'm building a career as a **Software Development Engineer (SDE)** and am prepar
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-core&show_icons=true&locale=en&layout=compact" alt="hari-core" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-core&show_icons=true&locale=en" alt="hari-core" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-core&" alt="hari-core" /></p>
+
+
