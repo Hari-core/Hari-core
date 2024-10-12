@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-   
+    
 ## 🔭 Current Focus:
 I'm actively working on a range of projects that dive into algorithms, system design, and distributed systems. Here are a few highlights:
 - **Sorting Analyzer**: Visualizing sorting algorithms and analyzing their performance.
