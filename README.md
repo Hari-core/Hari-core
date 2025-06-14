@@ -1,90 +1,76 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Hari+👋;Tech+Explorer;Problem+Solver" />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
-</div>
-
----
-
-## 🚀 About Me
-
-🌍 Based in India  
-👨‍💻 Currently learning: Data Analytics, Deep Learning, System Design  
-🎯 Career Goal: Build scalable systems and intelligent solutions  
-🧠 Loves: Solving algorithms, tech deep dives, storytelling through code  
-🌱 Lifelong learner with an eye on AI, system design, and analytics  
-🌐 Languages: Java, C++, Python, SQL, HTML/CSS
-
----
-
-## 💼 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔎 **Sorting Analyzer** | Visualized performance of different sorting algorithms interactively. |
-| 🧠 **Rate Limiter System** | Controlled request flow to mimic production backend limits. |
-| 🧩 **Sudoku Solver** | Java-based backtracking approach for puzzle solving. |
-| 🔁 **Kafka Docker Stream** | Microservice for Kafka consumer-producer inside Docker containers. |
-| 🔐 **Network Threat Detector** | Deep learning-based malicious traffic detection research. |
-
----
-
-## 🎯 Tech Stack
+<h1 align="center">Hey 👋, I'm Harikrishnan</h1>
+<h3 align="center">🚀 Data Enthusiast | Java Developer | Explorer of Tech & Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,mysql,git,github,docker,kafka,postman,vscode,linux,powerbi" />
+💡 Passionate about turning data into meaningful insights and building scalable solutions.<br>
+🎯 Currently learning Data Analysis tools and building cool backend + analytics projects.
 </p>
 
 ---
 
-## 📈 Stats & Activity
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnanh07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hari_hkh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hari_hkh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@harikrishnan_h21)
 
+---
+
+### 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-core&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hari-core&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 </p>
+
+---
+
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-core&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hari-core&show_icons=true&theme=github_dark" alt="Harikrishnan's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-core&layout=compact&theme=github_dark" alt="Top Langs" width="48%"/>
 </p>
 
 ---
 
-## 🎓 Certifications & Achievements
-
-- ✅ SQL Basics – HackerRank  
-- 🤖 Robotics Basics – Beginner Level  
-- 💡 Electronics Fundamentals  
-- 🇯🇵 JLPT N5 Tutor (Part-time)  
-- 📊 Data Analyst Bootcamp – Ongoing (Power BI, Excel, SQL, Python)
-
----
-
-## 🤝 Let’s Connect!
-
-<p align="left">
-  <a href="https://linkedin.com/in/harikrishnanh07" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-  </a>
-  <a href="https://www.leetcode.com/hari_hkh" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="leetcode" />
-  </a>
-  <a href="https://www.codechef.com/users/hari_hkh" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="30" alt="codechef" />
-  </a>
-  <a href="https://www.hackerrank.com/harikrishnan_h21" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="hackerrank" />
-  </a>
-</p>
-
----
-
-## ✨ Quote I Live By
-
-> "Consistency beats intensity."  
-> — Keep showing up, even on the dull days.
-
----
-
+### 🔥 My Contributions
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hari-core&theme=darkhub&column=6&margin-w=5&no-frame=true"/>
+  <img src="https://streak-stats.demolab.com?user=hari-core&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🧠 Tech Stack & Interests:
+| Area | Topics |
+|------|--------|
+| 🔍 Data | SQL, Excel, Power BI, Python (Pandas, NumPy) |
+| 💻 Backend | Java, Kafka, Docker |
+| 🧠 Learning | Deep Learning, System Design, Microservices |
+| 💬 Fun | Anime, Electronics, Gaming, Open Source |
+
+---
+
+### 🏆 Certifications & Highlights:
+- 🧮 **SQL (HackerRank)**
+- 🤖 **Electronics & Robotics Basics**
+- 🧩 **Ongoing Bootcamp: Data Analytics**
+
+---
+
+### 🌱 Currently Working On:
+- ✅ Final phase of Data Analyst Bootcamp (Excel, Power BI, SQL, Python)
+- ✅ Building a **Sudoku Solver**, **Attrition Dashboard**, and **Kafka pipelines**
+
+---
+
+> 🧘 "Consistency beats intensity. — Keep showing up, even on the dull days."
+
+---
