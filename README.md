@@ -35,16 +35,16 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari-core&show_icons=true&theme=github_dark" alt="Harikrishnan's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-core&layout=compact&theme=github_dark" alt="Top Langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hari-core&show_icons=true&theme=github_dark&cache_seconds=1800" alt="Harikrishnan's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-core&layout=compact&theme=github_dark&cache_seconds=1800" alt="Top Langs" width="48%"/>
 </p>
-
 ---
 
 ### 🔥 My Contributions
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hari-core&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Hari-core&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
